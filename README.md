@@ -49,7 +49,7 @@ To use or contribute to this project, follow these steps:
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/username/design-patterns-java.git
+   git clone https://github.com/yash1th-yerra/design-patterns-java.git
 2.**Import into Eclipse IDE:**
 Open Eclipse IDE.
 Go to File > Import.
